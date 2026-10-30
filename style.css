@@ -188,7 +188,7 @@ input[type=range]:focus-visible::-webkit-slider-thumb{box-shadow:0 0 0 2px var(-
 .zgoda.zle span{color:#ffb4ab}
 .zap-blad{margin:12px 0 0;color:#ffb4ab;font-size:14px;font-weight:600}
 .zap-ok p{margin:0 0 18px;color:#e4ebf7;font-size:15px}
-.zap-ok b{color:var(--zloty-jasny);word-break:break-all}
+.zap-ok b{color:var(--zloty-jasny);white-space:nowrap}
 .zap-ok .btn-obrys{padding-inline:20px;font-size:17px}
 .zap-wroc{display:block;margin:14px auto 0;background:none;border:0;color:#cdd8ec;text-decoration:underline;cursor:pointer;font-size:15px;padding:8px}
 
